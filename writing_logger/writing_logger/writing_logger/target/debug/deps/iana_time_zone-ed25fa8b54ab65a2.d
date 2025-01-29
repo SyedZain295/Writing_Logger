@@ -1,0 +1,9 @@
+/Users/syedzaincc64836483/writing_logger/writing_logger/writing_logger/writing_logger/target/debug/deps/libiana_time_zone-ed25fa8b54ab65a2.rmeta: /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/lib.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/ffi_utils.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/tz_macos.rs
+
+/Users/syedzaincc64836483/writing_logger/writing_logger/writing_logger/writing_logger/target/debug/deps/libiana_time_zone-ed25fa8b54ab65a2.rlib: /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/lib.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/ffi_utils.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/tz_macos.rs
+
+/Users/syedzaincc64836483/writing_logger/writing_logger/writing_logger/writing_logger/target/debug/deps/iana_time_zone-ed25fa8b54ab65a2.d: /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/lib.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/ffi_utils.rs /Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/tz_macos.rs
+
+/Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/lib.rs:
+/Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/ffi_utils.rs:
+/Users/syedzaincc64836483/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.61/src/tz_macos.rs:
