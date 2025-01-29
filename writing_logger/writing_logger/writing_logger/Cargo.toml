@@ -1,8 +1,0 @@
-[package]
-name = "writing_logger"
-version = "0.1.0"
-authors = ["Your Name <your.email@example.com>"]
-edition = "2021"
-
-[dependencies]
-chrono = "0.4"
