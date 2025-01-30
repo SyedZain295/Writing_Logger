@@ -24,7 +24,8 @@ Features:
     Backup entries – Backup your writing entries for safety.
     Restore entries – Restore entries from a backup.
     Exit – Exit the program.
-    You can view the live website here: [Visit the Website](https://syedzain295.github.io/Writing_Logger/Writing_Logger.html)
+[Visit the Website](https://syedzain295.github.io/Writing_Logger/Writing_Logger.html) -- Website Link
+
 
 
 Setup Instructions:
