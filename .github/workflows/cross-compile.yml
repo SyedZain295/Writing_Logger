@@ -1,0 +1,38 @@
+name: Cross-compile Rust to aarch64
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up Rust
+        uses: actions/setup-rust@v1
+        with:
+          rust-version: stable
+
+      - name: Add the target architecture
+        run: rustup target add aarch64-unknown-linux-gnu
+
+      - name: Install cross-compilation dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pkg-config libssl-dev
+
+      - name: Build the project
+        run: cargo build --release --target aarch64-unknown-linux-gnu
+
+      - name: Upload aarch64 binary
+        uses: actions/upload-artifact@v2
+        with:
+          name: aarch64-binary
+          path: target/aarch64-unknown-linux-gnu/release/your-binary-name
